@@ -2,6 +2,7 @@
 
 Practicing Resources:
 <ul>
+  <li>Codédex</li>
   <li>CodeSignal</li>
   <li>LeetCode</li>
 </ul>
